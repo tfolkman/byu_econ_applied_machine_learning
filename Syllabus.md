@@ -9,7 +9,7 @@
 References: [1] Chapter 1
 
 
-Introduction to Python
+##Introduction to Python
 
 1. Functions, Lists, Dictionaries, Counters, Sets, List Comprehensions, Generators
 2. Data science stack: numpy, pandas, scikit-learn, scipy, jupyter notebooks
