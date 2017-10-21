@@ -18,14 +18,14 @@ References: [1] Chapter 1
 References: [2] Chapter 2, [3] All Chapters
 
 
-Review of Linear Algebra and Stats
+##Review of Linear Algebra and Stats
 
 1. Vectors, Matrices, CLT, Hypothesis Testing, and Bayes Theorem
 
 References: [2] Chapters 4-7
 
 
-How to get and clean data
+##How to get and clean data
 
 1. Loading from text, SQL, and web pages
 2. Cleaning data: missing, outliers, scaling data, reformatting
@@ -33,7 +33,7 @@ How to get and clean data
 References: [3] Chapters 5-7, [2] Chapters 9-10 and 23, [1] Chapter 2
 
 
-How to visualize and describe data
+##How to visualize and describe data
 
 1. Data description techniques: mean, median, percentiles, correlations
 2. Data visualization techniques: various plots, Bokeh
@@ -41,7 +41,7 @@ How to visualize and describe data
 References: [1] Chapter 2, [2] Chapters 3 and 5, [3] Chapters 5, 8 and 9
 
 
-Regression
+##Regression
 
 1. Linear Regression
 2. Logistic Regression
@@ -50,14 +50,14 @@ Regression
 References: [2] Chapters 14-16, [1] Chapter 4, [4] Chapter 3, [5] Weeks 1-3
 
 
-Gradient Descent
+##Gradient Descent
 
 1. Cost functions, learning rates, and gradients
 
 References: [2] Chapter 8, [1] Chapter 4
 
 
-How to evaluate and tune models
+##How to evaluate and tune models
 
 1. Training/Testing and Cross validation
 2. MSE
@@ -71,7 +71,7 @@ How to evaluate and tune models
 References: [2] Chapter 11, [1] Chapter 2 and 3, [4] Chapter 2, 5, [5] Week 6
 
 
-Classification Models
+##Classification Models
 
 1. Naive Bayes, K-nearest neighbors
 
