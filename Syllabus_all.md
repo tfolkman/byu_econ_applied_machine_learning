@@ -18,6 +18,13 @@ References: [1] Chapter 1
 References: [2] Chapter 2, [3] All Chapters
 
 
+##Review of Linear Algebra and Stats
+
+1. Vectors, Matrices, CLT, Hypothesis Testing, and Bayes Theorem
+
+References: [2] Chapters 4-7
+
+
 ##How to get and clean data
 
 1. Loading from text, SQL, and web pages
