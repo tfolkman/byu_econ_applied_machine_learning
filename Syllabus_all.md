@@ -66,7 +66,6 @@ References: [2] Chapter 8, [1] Chapter 4
 5. Bias and variance / over-fitting under-fitting
 6. Tuning hyperparameters
 7. Feature importances
-8. Choosing metrics in industry
 
 References: [2] Chapter 11, [1] Chapter 2 and 3, [4] Chapter 2, 5, [5] Week 6
 
@@ -76,9 +75,6 @@ References: [2] Chapter 11, [1] Chapter 2 and 3, [4] Chapter 2, 5, [5] Week 6
 1. Naive Bayes, K-nearest neighbors
 
 References: [2] Chapters 12-13, [4] Chapter 4 
-
-
-
 
 SVMs
 
@@ -166,6 +162,7 @@ Machine Learning in Industry
 2. Things Kaggle challenges won’t teach you
 3. Why most data science initiatives fail
 4. Importance of communication and collaboration
+5. Choosing metrics in industry
 
 
 
