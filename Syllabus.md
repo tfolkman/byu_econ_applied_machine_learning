@@ -114,22 +114,6 @@ Recommender Systems
 References: [2] Chapter 22, [5] Week 9
 
 
-
-Anomaly Detection
-
-1. Gaussian Distributions
-2. Treat as classification, forecasting, or clustering
-
-References: [5] Week 9
-
-
-Network Analysis
-
-1. Page rank
-
-References: [2] Chapter 21
-
-
 Data Science at Scale
 
 1. Parallelism - dask and blaze
@@ -147,8 +131,6 @@ Deep Learning
 3. Tensorflow, Keras, Pytorch
 4. CNNs
 5. RNNs and word2vec
-6. Autoencoders
-7. Reinforcement Learning
 
 References: [2] Chapter 18, [1] Chapters 9-16, [5] Weeks 4-5, [6] All Lessons
 
