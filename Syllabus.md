@@ -1,5 +1,7 @@
 ﻿**Applied Machine Learning Syllabus**
+
 Economics 213R
+
 Professor: Tyler Folkman
 
 
@@ -7,7 +9,7 @@ Professor: Tyler Folkman
 
 I have created a slack group that we will use for most communication. I will provide more information on how to join and use slack when the course starts.
 
-You can also always reach me at tylerfolkman@gmail.com
+You can also always reach me at tylerfolkman at gmail
 
 
 ## Office Hours
@@ -18,8 +20,11 @@ To be determined. I will have an hour twice a week for office hours, but I want 
 ##Grading
 
 Final Project: 30%
+
 Homeworks: 50%
+
 Participation: 10%
+
 Quizzes: 10%
 
 Grading will be done on a curve and not upon absolute thresholds.
