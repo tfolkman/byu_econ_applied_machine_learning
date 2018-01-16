@@ -2,3 +2,8 @@ large_data/
 *.swp
 Syllabus.docx
 drafts/
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.DS_Store
