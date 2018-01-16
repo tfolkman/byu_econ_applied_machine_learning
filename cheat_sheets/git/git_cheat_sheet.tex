@@ -285,7 +285,7 @@ Now you have forked the repository, and it will show up in your list of reposito
 \subsection{Updating a Fork}
 
 Suppose a contributor of the original repository (the one from which you forked) makes a change, and you want to update your fork with that change.
-To make sure you are tracking the correct remote branch, type \texttt{git remote add upstream git://github.com/pjhyett/github-services.git} in the command line.
+To make sure you are tracking the correct remote branch, type \texttt{git remote add upstream https://github.com/tfolkman/byu\_econ\_applied\_machine\_learning.git} in the command line.
 This adds a remote (a pointer or link) to the class repository called \texttt{upstream}.
 To update your fork's master branch, use the command \texttt{git pull upstream master} (make sure you are on the master branch first!).
 Now your forked repository should reflect the changes made in the original repository.
@@ -316,6 +316,8 @@ Then you can erase it from your GitHub.
 \item \texttt{git checkout -b branch\_name}: Create and switch to a new branch.
 \item \texttt{git checkout branch\_name}: Switch to an existing branch.
 \item \texttt{git branch -d branch\_name}: Delete an existing branch.
+\item \texttt{git remote add upstream repository\_link}: Add a remote to a repository.
+\item \texttt{git pull upstream master}: Update whatever branch you're on in your forked repository to reflect the changes in the master branch of the repository you forked.
 \end{itemize}
 
 \subsection{Making New Branches}
