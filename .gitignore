@@ -7,3 +7,4 @@ drafts/
 *.synctex.gz
 *.toc
 *.DS_Store
+*lectures/.ipynb_checkpoints/*
