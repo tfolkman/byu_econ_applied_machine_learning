@@ -8,3 +8,4 @@ drafts/
 *.toc
 *.DS_Store
 *lectures/.ipynb_checkpoints/*
+models/
